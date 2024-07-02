@@ -23,13 +23,13 @@ header {
 .logo{
     font-size: 30px;
     font-weight: 700;
-    color: white;
+    color: black;
 }
 .navlist{
     display: flex;
 }
 .navlist a{
-    color: white;
+    color: black;
     margin-left: 60px;
     font-size: 15px;
     font-weight: 600;
@@ -37,10 +37,10 @@ header {
     transition: all .55s ease;
 }
 .navlist a:hover{
-    border-bottom: 2px solid white;
+    border-bottom: 2px solid black;
 }
 #menu-icon{
-    color: white;
+    color: black;
     font-size: 35px;
     z-index: 10001;
     cursor: pointer;
@@ -63,24 +63,24 @@ section{
 .hero-text h5{
     font-size: 14px;
     font-weight: 400;
-    color: white;
+    color: black;
     margin-bottom: 40px;
 }
 .hero-text h1{
     font-family: "Playfair Display", serif;
     font-size: 90px;
     line-height: 1;
-    color: white;
+    color: black;
     margin: 0 0 45px;
 }
 .hero-text h4{
     font-size: 18px;
     font-weight: 600;
-    color: white;
+    color: black;
     margin-bottom: 10px;
 }
 .hero-text p{
-    color: white;
+    color: black;
     font-size: 17px;
     line-height: 1.9;
     margin-bottom: 40px;
@@ -91,7 +91,7 @@ section{
 }
 .hero-text a{
     display: inline-block;
-    color: white;
+    color: black;
     background: #4d9559;
     border: 1px solid transparent;
     padding: 12px 30px;
@@ -104,12 +104,12 @@ section{
 }
 .hero-text a:hover{
     background: transparent;
-    border: 1px solid white;
+    border: 1px solid black;
     transform: translateX(8px);
 }
 .hero-text a.ctaa{
     background: transparent;
-    border: 1px solid white;
+    border: 1px solid black;
     margin-left: 20px;
 }
 .hero-text a.ctaa i{
@@ -126,7 +126,7 @@ section{
     display: block;
     margin: 26px 0;
     font-size: 24px;
-    color: white;
+    color: black;
     transition: all .50s ease;
 }
 .icons i:hover{
@@ -142,7 +142,7 @@ section{
     display: block;
     padding: 12px;
     font-size: 25px;
-    color: white;
+    color: black;
     background-color: #4d9559;
     border-radius: 30px;
     transition: all .50s ease;
@@ -298,7 +298,7 @@ margin-bottom: 5px;
     align-items: center;
     padding: 15px 30px;
     font-size: 16px;
-    color:white;
+    color:black;
     gap:10px;
     border: none;
     border-radius: 50px;
