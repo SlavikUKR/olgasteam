@@ -29,7 +29,7 @@
         <li><a href="index.html">Home</a></li>
         <li><a href="about.html">About</a></li>
         <li><a href="contact.html">Contact</a></li>
-        <li><a href="contact.html">Privacy Policy</a></li>
+        <li><a href="Untitled-1.html">Privacy Policy</a></li>
     </ul>
 
     <div class="bx bx-menu" id="menu-icon"></div>
@@ -51,6 +51,7 @@
 </p>   Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. We will make readily available to customers information about our policies and practices relating to the management of personal information.</p>
 </p> We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.</p>
  </p>
+ 
 
     </div>
     <div class="hero-img">
@@ -70,7 +71,7 @@
 
 
         <footer>
-           
+            &copy; <script>document.write(new Date().getFullYear())</script> All Right Reserved
           </footer>
 
 <script src="https://unpkg.com/scrollreveal"></script>
