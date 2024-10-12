@@ -352,5 +352,15 @@ background: beige;
     background-color:darkolivegreen ;
     border-radius:10px;
     margin-bottom: 20px;
+}
+@media (max-width:800px) {
+.contact-inputs{
+width: 80vw;
+}
+    .contact-right{
+        display: none;
+    }
+}
+
 
 
