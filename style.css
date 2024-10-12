@@ -345,5 +345,12 @@ background: beige;
     align-items: start;
     gap: 20px;
 }
+.contact-left-title hr{
+    border: none;
+    width: 150px;
+    height: 5px;
+    background-color:darkolivegreen ;
+    border-radius:10px;
+    margin-bottom: 20px;
 
 
