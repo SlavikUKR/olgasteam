@@ -478,4 +478,9 @@ label.fcf-label {
     margin-top: 0.5rem;
 }
 
-
+.contact-container{
+height:100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
