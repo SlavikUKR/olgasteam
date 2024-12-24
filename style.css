@@ -361,6 +361,20 @@ width: 80vw;
         display: none;
     }
 }
+.terms-box{
+    max-width: 550px;
+    background-color: #4d9559;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    padding: 60px 30px;
+}
 
+.terms-text{
+    padding: 0 20px;
+    height: 700px;
+    overflow-y: auto;
+    font-size: 14px;
+    font-weight: 500;
+}
 
 
